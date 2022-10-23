@@ -1,0 +1,11 @@
+ body {
+   background: url(coffee-apple.jpg) no-repeat center center fixed;
+   -webkit-background: cover;
+   -moz-background: cover;
+   -o-background: cover;
+   background: cover;
+
+ }
+ .pass-f{
+   color: brown!important;
+ }
